@@ -1,7 +1,3 @@
-# Space-Game
-
-
-
 # Space Game 👾
 
 
